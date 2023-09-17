@@ -1,0 +1,11 @@
+D:\Home\RustandJS\reverse_name_api\target\debug\deps\ubyte-1dcdfe548f6bc008.rmeta: C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+D:\Home\RustandJS\reverse_name_api\target\debug\deps\libubyte-1dcdfe548f6bc008.rlib: C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+D:\Home\RustandJS\reverse_name_api\target\debug\deps\ubyte-1dcdfe548f6bc008.d: C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs
+
+C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\lib.rs:
+C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\arithmetic.rs:
+C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\byte_unit.rs:
+C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\parse.rs:
+C:\Users\Robin\ Lifshitz\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.3\src\ser_de.rs:
